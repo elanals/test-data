@@ -1,0 +1,22 @@
+{
+    "length": 2,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-02-17",
+            "newCasesBySpecimenDate": 5,
+            "cumCasesBySpecimenDateRate": 12288,
+            "cumCasesBySpecimenDate": 6637,
+            "newDeaths28DaysByDeathDate": 1,
+            "cumDeaths28DaysByDeathDate": 225
+        },
+        {
+            "date": "2021-02-16",
+            "newCasesBySpecimenDate": 15,
+            "cumCasesBySpecimenDateRate": 12283,
+            "cumCasesBySpecimenDate": 6634.3,
+            "newDeaths28DaysByDeathDate": 0,
+            "cumDeaths28DaysByDeathDate": 224
+        }
+    ]
+}

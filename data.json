@@ -15,6 +15,22 @@
             "cumCasesBySpecimenDate": 6634.3,
             "newDeaths28DaysByDeathDate": 0,
             "cumDeaths28DaysByDeathDate": 224
-        }
+        },
+		{
+			"date": "2021-02-15",
+			"newCasesBySpecimenDate": 23,
+			"cumCasesBySpecimenDateRate": 12268,
+			"cumCasesBySpecimenDate": 6626.2,
+			"newDeaths28DaysByDeathDate": 2,
+			"cumDeaths28DaysByDeathDate": 224
+		},
+		{
+			"date": "2021-02-14",
+			"newCasesBySpecimenDate": 14,
+			"cumCasesBySpecimenDateRate": 12245,
+			"cumCasesBySpecimenDate": 6613.8,
+			"newDeaths28DaysByDeathDate": 0,
+			"cumDeaths28DaysByDeathDate": 222
+		}
     ]
 }
